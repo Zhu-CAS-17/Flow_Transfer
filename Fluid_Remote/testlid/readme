@@ -1,0 +1,2 @@
+forstream:change the boundary value for stream function (change the given value near the lid to a given gradient condition)
+formasstransfer:2D cartesian coordinary+condensation boundary condition+readin temperature file
