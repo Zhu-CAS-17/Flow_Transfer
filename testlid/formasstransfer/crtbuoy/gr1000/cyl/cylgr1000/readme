@@ -1,0 +1,6 @@
+1. cylindrical coordinates:
+  a. when solving the stream function, the subroutine hwscyl need to be called. 
+  b. similarily, calling pressuresolve, using hstcyl routine.
+  c. however, change implicit viscosity to display viscosity. 
+  d. the subroutine secondsolveuv is not called, and the viscosity term is used in the firstsolveuv routine.
+Now, this main program is changed to the initial chorin projection method process.
